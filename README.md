@@ -1,0 +1,1 @@
+# P-gina-de-vendas_panorama-b-blico
