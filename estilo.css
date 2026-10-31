@@ -520,21 +520,9 @@ a:hover, button:hover, [role="button"]:hover { transform: translateY(-2px); }
       opacity: 0.8;
     }
 
-    .s02-image-wrapper {
-      position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    
-    .s02-image-wrapper img {
-      border-radius: var(--radius-lg);
-      box-shadow: var(--shadow-lg);
-      border: 1px solid var(--border);
-      max-width: 100%; /* Adicionado para responsividade */
-      height: auto; /* Adicionado para responsividade */
-      object-fit: cover; /* Adicionado para garantir que a imagem se ajuste */
-    }
+    /* ===== Vídeo ===== */
+    .video{margin-top:30px;border-radius:18px;overflow:hidden;box-shadow:0 30px 70px -25px rgba(0,0,0,.55);border:1px solid var(--line);background:#000}
+    .video video{width:100%;height:auto}
 
     .s02-volume-badge {
       position: absolute;
