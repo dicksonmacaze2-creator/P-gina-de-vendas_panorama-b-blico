@@ -17,16 +17,13 @@
         white-space: nowrap;
       }
       #s02-hero .s02-cta,
-      .s15-section .s15-cta,
       .s19-cta .s19-cta__button {
         box-sizing: border-box;
         max-width: 100%;
         line-height: 1.2;
         overflow-wrap: anywhere;
       }
-      .s15-section .s15-cta {
-        max-width: min(450px, 100%);
-      }
+      
       .s19-cta .s19-cta__button {
         display: inline-flex;
         align-items: center;
