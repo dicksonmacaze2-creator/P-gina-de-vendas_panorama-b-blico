@@ -1726,20 +1726,6 @@ a:hover, button:hover, [role="button"]:hover { transform: translateY(-2px); }
       margin-bottom: 1.4rem;
     }
 
-    .s13a-savings {
-      display: inline-flex;
-      justify-content: center;
-      align-items: center;
-      max-width: 100%;
-      padding: 0.9rem 1.7rem;
-      border-radius: var(--radius-full);
-      background: var(--accent);
-      color: var(--bg);
-      font-weight: 900;
-      line-height: 1.35;
-      margin-bottom: 2rem;
-    }
-
     .s13a-note {
       color: var(--text-secondary);
       margin-bottom: 2.5rem;
@@ -1801,10 +1787,7 @@ a:hover, button:hover, [role="button"]:hover { transform: translateY(-2px); }
       .s13a-current-price {
         font-size: clamp(3.5rem, 17vw, 5rem);
       }
-      .s13a-savings {
-        width: 100%;
-        padding: 0.85rem 1rem;
-      }
+      
       .s13a-cta {
         width: 100%;
         min-width: 0;
